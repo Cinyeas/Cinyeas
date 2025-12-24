@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chloe 👋
 
-<!--
-**Cinyeas/Cinyeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Engineer with 3+ years of experience building consumer-facing mobile apps.
+I focus on Android fundamentals, complex state handling, and scalable app architecture.
 
-Here are some ideas to get you started:
+🔧 Tech Focus
+- Android: Kotlin, Java, Jetpack Compose, MVVM, Coroutines
+- Fundamentals: Activity/Fragment lifecycle, async & state management
+- Experience: consumer apps, order & payment flows, BLE / IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Selected Projects
+- Smart Parking App (Android) – search, booking, payment
+- BLE Lock Control App – device communication & state sync
+- Android Fundamentals Lab – lifecycle & coroutine demos
+
+🌱 Currently Learning
+- Android system internals
+- Android + AI (on-device ML, edge inference)
+
+📫 Contact
+- WhatsApp: +65 9611 5522
+- LinkedIn: https://www.linkedin.com/in/xinyi-kong-32a68a346/
